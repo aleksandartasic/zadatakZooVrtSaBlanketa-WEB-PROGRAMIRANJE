@@ -1,3 +1,3 @@
-#  Aprilski 2019.-WEB-PROGRAMIRANJE
+Projekat u kom se koristi JavaScript, kao i .NET-a i platforma Azure
 
-zadatakZooVrt
+#  Aprilski 2019.-WEB-PROGRAMIRANJE zadatakZooVrt
